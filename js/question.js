@@ -1,13 +1,13 @@
 let questions = [
   {
       numb:1,
-      question:'What Does HTML Stand For?',
-      answer:'Hyper Text Markup Language',
+      question:'What is the role of a Div element in HTML?',
+      answer:'Grouping and styling content',
       options:[
-          "Hyper Text Preprocessor",
-          "Hyper Text Markup Language",
-          "Hyper Text Multiple Language",
-          "Hyper Tool Multi Language"
+          "Defining a hyperlink",
+          "Creating a line break",
+          "Grouping and styling content",
+          "Displaying an image"
       ]
   },
   {
